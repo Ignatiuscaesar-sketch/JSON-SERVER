@@ -1,102 +1,172 @@
 {
-  "transactions": [
+  "events": [
     {
-      "id": 1,
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "id": "1",
+      "name": "Kenya Homes Expo",
+      "location": "Nairobi",
+      "dates": "Thu, 18 - Sun, 21 Apr 2024",
+      "category": "Building & Construction",
+      "description": "The Biggest Homes Show In East and Central Africa",
+      "followers": 3068,
+      "rating": 4.3
     },
     {
-      "id": 2,
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "id": "2",
+      "name": "TEMs AFRICA ICT Expo",
+      "location": "Nairobi",
+      "dates": "Thu, 25 - Fri, 26 Apr 2024",
+      "category": "IT & Technology",
+      "description": "The Largest ICT Show in East Africa",
+      "followers": 690,
+      "rating": 4.4
     },
     {
-      "id": 3,
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "id": "3",
+      "name": "MEDEXPO KENYA",
+      "location": "Nairobi",
+      "dates": "Wed, 17 - Fri, 19 Apr 2024",
+      "category": "Medical & Pharma",
+      "description": "The Medical, Pharma, Surgical & Healthcare Products Industry trade fair.",
+      "followers": 383,
+      "rating": 4.1
     },
     {
-      "id": 4,
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
+      "id": "4",
+      "name": "East Africa Property Investment Summit",
+      "location": "Nairobi",
+      "dates": "Wed, 17 - Thu, 18 Apr 2024",
+      "category": "Real Estate & Property",
+      "description": "East Africa's leading real estate gathering at the Radisson Blu Hotel, Nairobi Upper Hill.",
+      "followers": 590,
+      "rating": 4.3
     },
     {
-      "id": 5,
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
+      "id": "5",
+      "name": "World Financial Innovation Series",
+      "location": "Nairobi",
+      "dates": "Tue, 16 - Wed, 17 Apr 2024",
+      "category": "Banking & Finance",
+      "description": "Africa's Premier FSI Tech & Innovation Summit",
+      "followers": 103,
+      "rating": 3
     },
     {
-      "id": 6,
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
+      "id": "6",
+      "name": "Mega Clima Kenya",
+      "location": "Nairobi",
+      "dates": "Mon, 22 - Wed, 24 Apr 2024",
+      "category": "Building & Construction",
+      "description": "Refrigeration, air conditioning, ventilation, and heating sector",
+      "followers": 194,
+      "rating": 4.8
     },
     {
-      "id": 7,
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
+      "id": "7",
+      "name": "Finnovex East Africa",
+      "location": "Nairobi",
+      "dates": "Wed, 24 - Thu, 25 Apr 2024",
+      "category": "Banking & Finance",
+      "description": "The Leading Summit Financial Services Innovation and Excellence",
+      "followers": 51,
+      "rating": 5
     },
     {
-      "id": 8,
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
+      "id": "8",
+      "name": "Connected Africa Summit",
+      "location": "Nairobi",
+      "dates": "Sun, 21 - Thu, 25 Apr 2024",
+      "category": "IT & Technology",
+      "description": "Join The Summit, where industry leaders, officials, and innovators unite to drive collaboration and growth.",
+      "followers": 16,
+      "rating": null
     },
     {
-      "id": 9,
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "id": "9",
+      "name": "Climate Change Workshop",
+      "location": "Nairobi",
+      "dates": "Mon, 08 - Fri, 12 Apr 2024",
+      "category": "Agriculture & Forestry",
+      "description": "Understanding the causes, impacts, and potential solutions for climate change.",
+      "followers": 963,
+      "rating": 4
     },
     {
-      "id": 10,
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
+      "id": "10",
+      "name": "CTW Kenya",
+      "location": "Nairobi",
+      "dates": "Tue, 09 - Thu, 11 Jul 2024",
+      "category": "Building & Construction",
+      "description": "The Largest & Most Premier B2B Trade Show in Kenya",
+      "followers": 3840,
+      "rating": 4.3
     },
     {
-      "id": 11,
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
+      "id": "11",
+      "name": "School & Office Expo",
+      "location": "Nairobi",
+      "dates": "Thu, 16 - Sat, 18 May 2024",
+      "category": "Education & Training",
+      "description": "Focus on African market, attended by trade visitors from all over Africa. Covering stationery, writing instruments, and other school and office supplies.",
+      "followers": 100,
+      "rating": 4.6
     },
     {
-      "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
+      "id": "12",
+      "name": "AmCham Business Summit",
+      "location": "Nairobi",
+      "dates": "Wed, 24 - Thu, 25 Apr 2024",
+      "category": "Banking & Finance",
+      "description": "Facilitates increased trade and investment between the U.S. and East Africa, developed as a strategic advocacy platform.",
+      "followers": 72,
+      "rating": 4.5
     },
     {
-      "date": "2022-07-09",
-      "description": "Office lunch",
-      "category": "Food",
-      "amount": "2000",
-      "id": 13
+      "id": "13",
+      "name": "Africa CEO Leadership & Sustainability Forum",
+      "location": "Nairobi",
+      "dates": "Wed, 26 - Fri, 28 Jun 2024",
+      "category": "Business Services",
+      "description": "Conference and exhibition bringing together key decision makers to define the future of strategic leadership and sustainability in Africa.",
+      "followers": 75,
+      "rating": null
     },
     {
-      "date": "2022-07-09",
-      "description": "Office lunch Wednesday",
-      "category": "Food",
-      "amount": "3000",
-      "id": 14
+      "id": "14",
+      "name": "Kenya Home & Build Expo",
+      "location": "Nairobi",
+      "dates": "Thu, 18 - Sun, 21 Apr 2024",
+      "category": "Building & Construction",
+      "description": "International trade exhibition on all kinds of building, construction materials, electrical, lighting, hardware, safety & security, tools, and paints.",
+      "followers": 556,
+      "rating": 3.6
+    },
+    {
+      "id": "15",
+      "name": "Africa Women's Health Day",
+      "location": "Nairobi",
+      "dates": "Wed, 08 - Fri, 10 May 2024",
+      "category": "Wellness, Health & Fitness",
+      "description": "Focusing on the pillars of families and communities in Africa, addressing the health care needs of women.",
+      "followers": 17,
+      "rating": null
+    },
+    {
+      "id": "16",
+      "name": "Kenya Medical Association Annual Scientific Conference and AGM",
+      "location": "Kisii",
+      "dates": "Wed, 24 - Sat, 27 Apr 2024",
+      "category": "Medical & Pharma",
+      "description": "Advocates for doctors' welfare and quality healthcare, focusing on the medical and dental practitioners in Kenya.",
+      "followers": 41,
+      "rating": null
+    },
+    {
+      "id": "eea4",
+      "name": "A Gentleman in Moscow Review",
+      "location": "Nairobi",
+      "dates": "5th May",
+      "category": "Education",
+      "description": "Can a life without luxury be the richest of all? Join us on the 5th of March to delve deeper into the contents of this book. "
     }
   ]
 }
