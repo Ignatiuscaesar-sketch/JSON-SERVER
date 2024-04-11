@@ -66,7 +66,7 @@ node server.js
 
 #### Step 6: Test - List Users API 
 ```
-http://localhost:5000/api/articles
+http://localhost:3000/events
 ```
 
 
